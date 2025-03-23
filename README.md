@@ -10,7 +10,7 @@ DetectiveAI is an AI-powered chatbot designed to assist in solving crime cases b
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/DetectiveAI.git
+    git clone https://github.com/sakshi3182005/DetectiveAI.git
     ```
 2. Navigate to the project directory:
     ```bash
